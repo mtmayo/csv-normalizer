@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# don't commit csv files
+*.csv
+
+.DS_Store
+.idea/
